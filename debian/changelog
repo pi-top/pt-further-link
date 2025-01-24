@@ -1,3 +1,10 @@
+further-link (5.9.2-5) bullseye; urgency=medium
+
+  * Updated master workflow files
+  * Updated master workflow files
+
+ -- pi-top <deb-maintainers@pi-top.com>  Fri, 24 Jan 2025 14:32:23 +0000
+
 further-link (5.9.2-4) bullseye; urgency=medium
 
   * fix: ignore named pipes when copying project files (#172)
